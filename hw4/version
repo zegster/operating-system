@@ -1,0 +1,149 @@
+commit fecc4d0add71c0cb72dd30aaadfdfb2ac7fef30d
+Author: zegster <dngo1996@gmail.com>
+Date:   Tue Oct 22 15:27:25 2019 -0500
+
+    - Finalize Homework #4 (check README in hw4 for more information).
+
+commit 476f08afcbf7e1cc51bbe9751b98affbccf0e807
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 18 21:34:46 2019 -0500
+
+    - Adjusting logical clock. Working with second and nanosecond to avoid confusion.
+
+commit b038541501a8aae21924dd9a36e31ba993bc919a
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 18 13:23:23 2019 -0500
+
+    - Got bitmap working as intended.
+
+commit 782c6902a79b1e1fdd6931e449bc8f7fb3684a7c
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 18 12:12:57 2019 -0500
+
+    - Bought back bitmap and prototyping bitmap.
+
+commit d210373e0bb4bcd0df48e3f8cb2007edeeee86b0
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Oct 17 01:28:14 2019 -0500
+
+    - Added universal termination handler.
+
+commit 5e7aeaec1526277192fec9948e5345e965da5478
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Oct 16 22:33:15 2019 -0500
+
+    - Fixing scheduling queue PART 9.
+
+commit b9a0db97a1b17d7a10800958f653115bccbb7916
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Oct 16 16:02:37 2019 -0500
+
+    - Fixing scheduling queue PART 8 (fixed traverse queue).
+
+commit 66c0e09eb953eecbfea58572df51b90745521c76
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Oct 16 15:42:42 2019 -0500
+
+    - Fixing scheduling queue PART 7 (unable to traverse queue).
+
+commit ef57c95a7b5216c66ee145675f88818c1166ef92
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Oct 16 10:47:26 2019 -0500
+
+    - Fixing scheduling queue PART 6 (multi-process is not working...).
+
+commit eeb2aadaab1ba72ae472e0d879ce7f43beee7f45
+Author: zegster <dngo1996@gmail.com>
+Date:   Tue Oct 15 22:45:33 2019 -0500
+
+    - Fixing scheduling queue PART 5 (multi-process is not working...).
+
+commit 8102c6c723be3548d0542762376c290200604612
+Author: zegster <dngo1996@gmail.com>
+Date:   Tue Oct 15 18:51:06 2019 -0500
+
+    - Fixing scheduling queue PART 4.
+
+commit cbb737fd3a71af0c575285e23cf1c1f0cbe5b992
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Oct 14 23:48:24 2019 -0500
+
+    - Fixing scheduling queue PART 3.
+
+commit aa2d5b80b4193dc7b2a353502cb05ec9efff2569
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Oct 14 22:40:04 2019 -0500
+
+    - Using message queue to send message to master and child for sync.
+
+commit a65774eba03194f15d8c6169849ab49e0884423f
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Oct 14 09:37:48 2019 -0500
+
+    - Fixing scheduling queue PART 2.
+
+commit 9d8ae15693a53992ebbad103694020bdcebd9375
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Oct 13 19:15:29 2019 -0500
+
+    - Fixing scheduling queue PART 1.
+
+commit 501923894a6c8831748470ce732c65d8ab5784ff
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Oct 13 17:00:37 2019 -0500
+
+    - Prototyping linked list queue.
+
+commit b0a19a74e4eb8c715c0aa0b4932024a8c278fb40
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Oct 13 01:18:25 2019 -0500
+
+    - Testing oss by creating a process control table with one user process.
+
+commit 37311ffdc6824edd111c25a4066bfafd7db5262c
+Author: zegster <dngo1996@gmail.com>
+Date:   Sat Oct 12 23:26:42 2019 -0500
+
+    - Prototyping saving information to PCB.
+
+commit 4835c12a5a8d109a1bcb8e54550d67f067403216
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 11 23:16:17 2019 -0500
+
+    - Temporary remove bit map...
+
+commit fbb5860befae151adac88e562fe7c8567baf6367
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 11 21:42:01 2019 -0500
+
+    - Prototyping bit map.
+
+commit 1da68b2a8b94d983ce56213ce24dae7d1e72ba08
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 11 19:00:57 2019 -0500
+
+    - Prototyping forking procedure.
+
+commit d52df057775e66f35a9e161ae9800a487c26af06
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 11 15:42:14 2019 -0500
+
+    - Prototyping message queue.
+    - Added clean up function that release and delete all shared resources.
+
+commit 77b2b0165bafcc8a19aa89045521d048df3f570e
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Oct 11 12:56:58 2019 -0500
+
+    - Prototyping shared memory in oss.c.
+
+commit 8dbc464aefb8fc7a48d4e88c48023841e260d263
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Oct 10 23:30:04 2019 -0500
+
+    - Added Makefile to HW4.
+    - Added shared.h to HW4.
+    - Added oss.c to HW4.
+    	- Added getopt.
+    - Added user.c to HW4.
+

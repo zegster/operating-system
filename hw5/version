@@ -1,0 +1,114 @@
+commit f4f50aac0cd01cea621fb3ae1be69b55ff69dd76
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Nov 7 15:39:37 2019 -0600
+
+    - Cleaning up.
+
+commit 0caf042a01e66f3e480165c18208c90f46339d1a
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Nov 6 06:19:15 2019 -0600
+
+    - Working on banker algorithm PART 11.
+
+commit 305cc247951fbe8e494b848656c2e91e2bc274de
+Author: zegster <dngo1996@gmail.com>
+Date:   Tue Nov 5 21:21:29 2019 -0600
+
+    - Working on banker algorithm PART 10.
+
+commit a74af8e5bf74ade135692147962cadf379ffaeca
+Author: zegster <dngo1996@gmail.com>
+Date:   Tue Nov 5 00:31:24 2019 -0600
+
+    - Working on banker algorithm PART 9.
+
+commit cb125f435c3859b6814979f4f6d450a034e8fab4
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Nov 4 22:34:13 2019 -0600
+
+    - Working on banker algorithm PART 8.
+
+commit 14847299eb3f554054a723fa65c18d5fb59a84cc
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Nov 4 09:30:27 2019 -0600
+
+    - Working on banker algorithm PART 7.
+
+commit b9f14909b4186cf4f0db09abe4984a2503992532
+Author: zegster <dngo1996@gmail.com>
+Date:   Mon Nov 4 03:40:53 2019 -0600
+
+    - Working on banker algorithm PART 6.
+
+commit 4fd0a5c365a1dfa94cc485849f5d42699fa531d1
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Nov 3 21:10:56 2019 -0600
+
+    - Working on banker algorithm PART 5.
+
+commit 74ea001bfe8b7254601a9bfcc9f7279c82b498e3
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Nov 3 11:00:30 2019 -0600
+
+    - Working on banker algorithm PART 4.
+
+commit a8c75bf9488cef9ab2c92854f3e56340b06ba5ba
+Author: zegster <dngo1996@gmail.com>
+Date:   Sun Nov 3 00:15:54 2019 -0500
+
+    - Working on banker algorithm PART 3.
+
+commit d9d659a40a7aa07f9b4a19da2decdcbaf7f84c1d
+Author: zegster <dngo1996@gmail.com>
+Date:   Sat Nov 2 02:40:53 2019 -0500
+
+    - Working on banker algorithm PART 2.
+
+commit 17863eb9b1266af08fad1c33bae31baf7cad0b67
+Author: zegster <dngo1996@gmail.com>
+Date:   Sat Nov 2 00:57:36 2019 -0500
+
+    - Working on banker algorithm.
+
+commit 2b14e71d5f3c7d65cb196f12f80afe8e2ccddc71
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Nov 1 20:14:04 2019 -0500
+
+    - Move constant, struct, standard lib to it own separate file. Prototyping banker algorithm.
+
+commit 3428be1ea520cdf631d2cff73833faebc3bd5494
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Nov 1 18:23:37 2019 -0500
+
+    - Clean up queue.h and queue.c file.
+
+commit 0139f169addba9f82ed96f021fbb4a4c52ae27f8
+Author: zegster <dngo1996@gmail.com>
+Date:   Fri Nov 1 18:00:46 2019 -0500
+
+    - Add init resource.
+
+commit 1f4b19fa1ad86583f6d848aeb53a949dbb13637d
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Oct 31 02:43:06 2019 -0500
+
+    - Clean up update.
+
+commit fc2bc33606cfc78b03c9e6c3b354e3efb8f2fda4
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Oct 31 02:40:16 2019 -0500
+
+    - Add fork a user process at random times (between 1 and 500 milliseconds of logical clock).
+
+commit 838fdab2ff2645d09bcc7fdd09264020813102b9
+Author: zegster <dngo1996@gmail.com>
+Date:   Thu Oct 31 00:20:06 2019 -0500
+
+    - Add queue functionality.
+
+commit 8ac367469cac8a2d7c4cc0d4147b4aa9209f9b10
+Author: zegster <dngo1996@gmail.com>
+Date:   Wed Oct 30 21:16:41 2019 -0500
+
+    - Init procedure for hw5.
+
